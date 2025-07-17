@@ -33,7 +33,7 @@ Generates visual visualizations of player behavior and zone-based touches. One o
 Clusters all players using multiple statistical dimensions combined. After normalization, dimensionality reduction and KMeans clustering are applied to identify distinct player profiles.
 
 ### `cluster_individual_features.ipynb`
-Clusters players using individual groups of statistics (e.g., passing stats only, or attacking stats only). This helps explore how players group based on specific skillsets.
+Clusters teams using individual groups of statistics (e.g., passing stats only, or attacking stats only). This helps explore how players group based on specific skillsets.
 
 ### `player_type.ipynb`
 Uses the clustering results to assign players to predefined profiles or types. This is useful to classify players and understand their tactical role within the team.
